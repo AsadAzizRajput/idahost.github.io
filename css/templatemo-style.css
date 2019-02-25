@@ -613,3 +613,23 @@ a.nav-link.tm-nav-link {
 .imglist{
   width: 100%
 }
+.tm-section-pad-top1{
+  padding-top: 40px;
+  padding-bottom: 40px;
+ 
+}
+.services{
+  margin: 0 auto;
+  display:table;
+}
+@media (min-width: 1200px){
+.container {
+    max-width: 1170px;
+}
+}
+
+@media (min-width: 992px){
+.col-lg-2 {
+    margin-right: 30px;
+}
+}
